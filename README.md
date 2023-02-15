@@ -16,7 +16,7 @@
 
 Install the CLI then grab your [OpenAI key](https://openai.com/api/) and add it as an env variable with the two commands below.
 
-1. `npm install -g aicommits`
+1. `npm install -g k-aicommits`
 2. `export OPENAI_KEY=sk-xxxxxxxxxxxxxxxx`
 
 It's recommended to add the line in #2 to your `.zshrc` or `.bashrc` so it persists instead of having to define it in each terminal session.
