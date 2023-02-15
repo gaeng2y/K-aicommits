@@ -1,6 +1,6 @@
 {
   "name": "k-aicommits",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "Writes your git commit messages for you with AI",
   "files": [
     "bin"
