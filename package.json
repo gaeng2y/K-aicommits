@@ -6,7 +6,7 @@
     "bin"
   ],
   "bin": "bin/index.js",
-  "repository": "https://github.com/Nutlope/aicommits",
+  "repository": "https://github.com/gaeng2y/aicommits",
   "author": "Hassan El Mghari (@nutlope)",
   "license": "MIT",
   "devDependencies": {
