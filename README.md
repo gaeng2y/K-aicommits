@@ -7,6 +7,7 @@
 	<a href="https://www.npmjs.com/package/aicommits"><img src="https://img.shields.io/npm/v/aicommits" alt="Current version"></a>
   <a href="https://twitter.com/nutlope">
     <img src="https://img.shields.io/twitter/follow/nutlope?style=flat&label=nutlope&logo=twitter&color=0bf&logoColor=fff" alt="Hassan Twitter follower count" />
+    포크한 레포지토리를 수정하였습니다.
   </a>
 </div>
 
