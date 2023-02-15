@@ -1,13 +1,18 @@
 {
-  "name": "k-aicommits",
+  "name": "kaicommits",
   "version": "1.0.5",
   "description": "Writes your git commit messages for you with AI",
   "files": [
     "bin"
   ],
-  "bin": "bin/index.js",
-  "repository": "https://github.com/Nutlope/aicommits",
-  "author": "Hassan El Mghari (@nutlope), Kyeongmo Yang",
+  "bin": {
+    "k-aicommits": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nutlope/aicommits.git"
+  },
+  "author": "Hassan El Mghari (@nutlope)",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.13.0",
@@ -25,5 +30,10 @@
     "ai",
     "git",
     "commit"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/Nutlope/aicommits/issues"
+  },
+  "homepage": "https://github.com/Nutlope/aicommits#readme",
+  "main": "index.js"
 }
