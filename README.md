@@ -4,7 +4,7 @@
     <h1 align="center">K AI Commits</h1>
   </div>
 	<p>A CLI that writes your git commit messages for you with AI. Never write a commit message again.</p>
-	<a href="https://www.npmjs.com/package/aicommits"><img src="https://img.shields.io/npm/v/aicommits" alt="Current version"></a>
+	<a href="https://www.npmjs.com/package/kaicommits"><img src="https://img.shields.io/npm/v/aicommits" alt="Current version"></a>
   <a href="https://twitter.com/nutlope">
     <img src="https://img.shields.io/twitter/follow/nutlope?style=flat&label=nutlope&logo=twitter&color=0bf&logoColor=fff" alt="Hassan Twitter follower count" />
   </a>
