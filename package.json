@@ -1,13 +1,13 @@
 {
   "name": "k-aicommits",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Writes your git commit messages in Korean for you with AI",
   "files": [
     "bin"
   ],
   "bin": "bin/index.js",
   "repository": "https://github.com/gaeng2y/aicommits",
-  "author": "Hassan El Mghari (@nutlope)",
+  "author": "Hassan El Mghari (@nutlope), Kyeongmo Yang",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.13.0",
