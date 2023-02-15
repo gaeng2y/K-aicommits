@@ -5,14 +5,9 @@
   "files": [
     "bin"
   ],
-  "bin": {
-    "k-aicommits": "bin/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Nutlope/aicommits.git"
-  },
-  "author": "Hassan El Mghari (@nutlope)",
+  "bin": "bin/index.js",
+  "repository": "https://github.com/gaeng2y/aicommits.git",
+  "author": "Hassan El Mghari (@nutlope), Kyeongmo Yang",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.13.0",
@@ -34,6 +29,5 @@
   "bugs": {
     "url": "https://github.com/Nutlope/aicommits/issues"
   },
-  "homepage": "https://github.com/Nutlope/aicommits#readme",
-  "main": "index.js"
+  "homepage": "https://github.com/Nutlope/aicommits#readme"
 }
