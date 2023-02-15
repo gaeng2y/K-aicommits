@@ -21,9 +21,9 @@ Install the CLI then grab your [OpenAI key](https://openai.com/api/) and add it 
 
 It's recommended to add the line in #2 to your `.zshrc` or `.bashrc` so it persists instead of having to define it in each terminal session.
 
-After doing the two steps above, generate your commit by running `aicommits`.
+After doing the two steps above, generate your commit by running `kaicommits`.
 
-> Note: If you get a EACCESS error on mac/linux when running the first command, try running it with `sudo npm install -g aicommits`.
+> Note: If you get a EACCESS error on mac/linux when running the first command, try running it with `sudo npm install -g kaicommits`.
 
 ## How it works
 
